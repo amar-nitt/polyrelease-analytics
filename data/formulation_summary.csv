@@ -1,0 +1,13 @@
+formulation_code,polymer_name,polymer_conc_pct,mixing_speed_rpm,drug_loading_pct,solvent,valid_batches,avg_yield_pct,avg_burst_ratio,release_behaviour,avg_release_48h
+F006,PVA,10.0,600,15.0,Water,1,84.7,20.9,Rapid Burst,93.5
+F005,PVA,5.0,300,10.0,Water,2,91.2,22.0,Rapid Burst,93.5
+F007,PVA,15.0,400,20.0,Water,2,83.8,20.7,Rapid Burst,91.8
+F008,PVA,20.0,800,10.0,Water,1,88.2,20.2,Rapid Burst,90.8
+F009,Chitosan,10.0,400,10.0,Acetic Acid,2,80.6,18.8,Intermediate,78.2
+F010,Chitosan,20.0,800,15.0,Acetic Acid,2,78.8,16.6,Intermediate,76.3
+F001,PLGA 50:50,5.0,200,10.0,Ethanol,2,89.8,17.4,Intermediate,72.3
+F002,PLGA 50:50,10.0,400,10.0,Ethanol,1,85.0,18.0,Intermediate,70.2
+F003,PLGA 50:50,15.0,600,15.0,Ethanol,2,88.9,16.2,Intermediate,67.8
+F004,PLGA 50:50,20.0,800,20.0,Acetone,1,86.9,16.7,Intermediate,65.0
+F011,HPMC K100,10.0,300,10.0,Water,1,86.3,15.3,Intermediate,56.7
+F012,HPMC K100,20.0,600,20.0,Water,2,85.9,16.6,Intermediate,51.9
